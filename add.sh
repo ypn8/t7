@@ -4,3 +4,4 @@ echo "enter second value"
 read b
 ((sum=$a+$b))
 echo $sum
+echo $a
